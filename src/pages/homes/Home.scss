@@ -1,0 +1,14 @@
+.homes{
+    display: flex;
+}
+.home_container{
+    // background-color: aqua;
+    flex: 3;
+
+    .widgets{
+        display: flex;
+        gap: 20;
+        margin-left: 33px;
+    }
+    }
+
